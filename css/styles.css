@@ -1,0 +1,17 @@
+p{
+    text-align: center;
+}
+h3{
+    color: rgb(58, 94, 58);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+    font-size: 35px;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+}
+body {
+    background-color: rgb(192, 188, 152);
+}
